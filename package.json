@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/ant-design-vue2#readme",
+  "homepage": "https://github.com/common-intellisense/ant-design-vue#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/ant-design-vue2.git"
+    "url": "git+https://github.com/common-intellisense/ant-design-vue.git"
   },
-  "bugs": "https://github.com/common-intellisense/ant-design-vue2/issues",
+  "bugs": "https://github.com/common-intellisense/ant-design-vue/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {

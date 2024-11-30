@@ -82,7 +82,8 @@
       "name": "click",
       "description": "set the handler to handle click event",
       "params": "(event) => void",
-      "description_zh": "点击按钮时的回调"
+      "description_zh": "点击按钮时的回调",
+      "required": true
     }
   ],
   "link": "https://1x.antdv.com/components/button",
